@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "硬币排列", "硬币排�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断是否为循环链表", "判断是否为循环链表\判断是否为循环链表.vcxproj", "{B39C23EB-373C-41AD-B0B0-DABF7B99B420}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "两个有序数列相连接", "两个有序数列相连接\两个有序数列相连接.vcxproj", "{AD19F72A-0FAB-46E2-89FB-59D572614AD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{B39C23EB-373C-41AD-B0B0-DABF7B99B420}.Release|x64.Build.0 = Release|x64
 		{B39C23EB-373C-41AD-B0B0-DABF7B99B420}.Release|x86.ActiveCfg = Release|Win32
 		{B39C23EB-373C-41AD-B0B0-DABF7B99B420}.Release|x86.Build.0 = Release|Win32
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Debug|x64.ActiveCfg = Debug|x64
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Debug|x64.Build.0 = Debug|x64
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Debug|x86.Build.0 = Debug|Win32
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Release|x64.ActiveCfg = Release|x64
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Release|x64.Build.0 = Release|x64
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Release|x86.ActiveCfg = Release|Win32
+		{AD19F72A-0FAB-46E2-89FB-59D572614AD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
